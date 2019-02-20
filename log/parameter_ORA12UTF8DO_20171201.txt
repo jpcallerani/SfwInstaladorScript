@@ -1,0 +1,6 @@
+Conectando em TROSGTBC/******...
+
+ORACLE:
+--------------------------------------------
+12.2.0.1.0 (A Softway recomenda patch da versão do Oracle igual ou superior à 11.2.0.4 ou menor ou igual à 12.1.0.2)
+

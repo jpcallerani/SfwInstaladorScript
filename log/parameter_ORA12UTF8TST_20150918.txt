@@ -1,0 +1,14 @@
+Conectando em SFWV12/******...
+
+PARAMETROS:
+--------------------------------------------
+> A tabela v$parameter não possui acesso. Solicitar acesso ao DBA para validar 
+ parâmetros de ambiente.
+ Parâmetros verificados e valores recomendados:
+ CURSOR_SHARING = EXACT
+ OPEN_CURSORS >= 500
+ QUERY_REWRITE_ENABLED = ENABLED
+ OPTIMIZER_MODE = FIRST_ROWS_10
+ OPTIMIZER_INDEX_CACHING >= 50
+ OPTIMIZER_INDEX_COST_ADJ >= 20
+
